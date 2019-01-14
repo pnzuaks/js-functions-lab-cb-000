@@ -3,5 +3,9 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo() {
+
+}
+
+function happyHolidayTo() {
   
 }
